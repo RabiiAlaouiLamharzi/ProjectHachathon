@@ -1,6 +1,8 @@
 # ProjectHachathon
 
-WEBSITE URL: https://rabiialaouilamharzi.github.io/ProjectHachathon/
+| WEBSITE URL | 
+| ------------------------------------------------------- |
+| https://rabiialaouilamharzi.github.io/ProjectHachathon/ |
 
 There may be issues with the navigation bar items on the index.html page at the moment.
 
