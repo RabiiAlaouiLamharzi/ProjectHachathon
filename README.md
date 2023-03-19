@@ -1,5 +1,7 @@
 # ProjectHachathon(HTML/CSS, Bootstrap, JavaScript, MongoDB)
 
+This project was completed within a 24-hour window during the Hackathon Hack2Impact, which was sponsored by Huawei.
+
 SAGA (Search And Get Answered) is an online platform specifically designed to assist students and staff of Al Akhawayyn University (AUI) in finding any information related to the university and student life. Rather than sifting through multiple websites, brochures, or booklets, users can quickly and easily obtain the information they need by searching for keywords or asking questions.
 
 The platform provides a centralized hub for accessing a wide range of information, including academic and administrative resources, campus events and activities, and general university-related information. SAGA's search functionality is powered by advanced algorithms that analyze and rank the relevance of the information retrieved based on user queries.
