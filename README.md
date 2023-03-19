@@ -9,7 +9,7 @@
 
 
 
-**Problems to Fix:**
+**Things to keep in mind:**
 
 There may be issues with the navigation bar items on the index.html page at the moment.
 
