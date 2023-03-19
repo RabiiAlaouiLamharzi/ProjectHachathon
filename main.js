@@ -27,7 +27,7 @@ const renderPosts = (posts) => {
   postsList.innerHTML = output;
 };
 
-const url = "http://localhost:5000/api/posts";
+const url = "https://github.com/RabiiAlaouiLamharzi/ProjectHachathon/data";
 
 //Get: Read the posts
 //Method GET
