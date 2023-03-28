@@ -12,8 +12,8 @@ Overall, SAGA streamlines the information search process, saving users time and 
 | Section | Purpose |
 |---------------------|----------|
 | **Home** | This is the home page of the website, which contains our search engine. When the user input something in the search bar, the search function retrieves the most relevant pages from the MongoDB database and displays them in order of relevance. |
-| **Admin** | While regular users are only allowed to fetch data in the home page, the admin page provides an interface for modifying, deleting or adding new data (new cards). It is typically only accessible by authorized users, such as website administrators, and faculty members. |
-| **About** | The about page contain information about SAGA's mission and objectives. |
+| **Admin** | While regular users are only allowed to fetch data in the home page, the admin page provides an interface for modifying, deleting or adding new data (new cards). It is only accessible by authorized users, such as website administrators, and faculty members. |
+| **About** | The about page contains information about SAGA's mission and objectives. |
 
 WEBSITE LINK: https://rabiialaouilamharzi.github.io/ProjectHachathon/
 
