@@ -15,19 +15,6 @@ Overall, SAGA streamlines the information search process, saving users time and 
 | **Admin** | While regular users are only allowed to fetch data in the home page, the admin page provides an interface for modifying, deleting or adding new data (new cards). It is only accessible by authorized users, such as website administrators, and faculty members. |
 | **About** | The about page contains information about SAGA's mission and objectives. |
 
-WEBSITE LINK: https://rabiialaouilamharzi.github.io/ProjectHachathon/
-
-# Things to keep in mind:
-
-There may be issues with the navigation bar items on the index.html page at the moment.
-
-When attempting to access admin.html, a login form will appear requesting the following information:
-
-- Username: r.lamharzialaoui@aui.ma
-- Password: rabii2001
-
-If you encounter difficulties accessing admin.html, you can try accessing it directly via the following URL: https://rabiialaouilamharzi.github.io/ProjectHachathon/admin.html
-
 # Demo:
 
 https://user-images.githubusercontent.com/103124512/226175542-24e3f49f-9eb7-41b4-ba70-b3b43ea38f46.mp4
