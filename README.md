@@ -2,7 +2,7 @@
 
 This project was completed within a 24-hour window during the Hackathon Hack2Impact, which was sponsored by Huawei.
 
-SAGA (Search And Get Answered) is an online platform that provides a centralized hub for accessing a wide range of information related to Al Akhawayyn university, including academic and administrative resources, and campus events and activities. SAGA's search functionality is powered by advanced algorithms that analyze and rank the relevance of the information retrieved based on user queries.
+SAGA (Search And Get Answered) is an online search engine that provides a centralized hub for accessing a wide range of information related to Al Akhawayyn university, including academic and administrative resources, and campus events and activities. SAGA's search functionality is powered by advanced algorithms that analyze and rank the relevance of the information retrieved based on user queries.
 
 Overall, SAGA streamlines the information search process, saving users time and effort while ensuring they have access to the most accurate and up-to-date information available.
 
