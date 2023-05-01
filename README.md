@@ -1,4 +1,4 @@
-# ProjectHachathon(HTML/CSS, Bootstrap, JavaScript, MongoDB/Express)
+# ProjectHachathon(HTML/CSS, Bootstrap, JavaScript, MongoDB, Express.js, REST)
 
 This project was completed within a 24-hour window during the Hackathon Hack2Impact, which was sponsored by Huawei.
 
